@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![wakatime](https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg)](https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9)
 
 ![Github-Stats](https://github-readme-stats.vercel.app/api?username=Fr4nk1in-USTC&theme=blue-green)
+
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fr4nk1in-USTC&theme=blue-green)
 
 ### Laptop 💻
