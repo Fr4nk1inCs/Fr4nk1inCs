@@ -76,3 +76,7 @@ Here are some ideas to get you started:
 
 ### Recent ⌛
 
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Fr4nk1in-USTC/Fr4nk1in-USTC/master/images/wakatime_weekly_language_stats.svg">
+  <img align="center" src="https://raw.githubusercontent.com/Fr4nk1in-USTC/Fr4nk1in-USTC/master/images/wakatime_weekly_project_stats.svg">
+</p>
