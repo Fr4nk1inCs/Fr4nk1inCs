@@ -70,9 +70,7 @@ Here are some ideas to get you started:
 
 ### Contact ☎️
 
-[![QQ](https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white)](https://qm.qq.com/cgi-bin/qm/qr?k=I1_zGlkCbWo80LC1S0SKRU9chGBbU6cO&noverify=0&personal_qrcode_source=4)
-[![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fr4nk1i)
+Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
 
 ### Recent ⌛
 
