@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Fr4nk1in-USTC/cmu-dl-sys.git) for details.
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1in-USTC&theme=tokyonight" alt="summary">
   <br>
