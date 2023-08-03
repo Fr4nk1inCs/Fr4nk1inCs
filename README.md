@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Fr4nk1in-USTC/cmu-dl-sys.git) for details.
 
+<!--
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=USTC%5BFr4nk1in%5D.profile()" alt="Typing SVG" />
   </a>
 </p>
+-->
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Fr4nk1in-USTC?affiliations=OWNER&style=for-the-badge" alt="stars">
@@ -30,20 +33,23 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Fr4nk1in-USTC/cmu-dl-sys.git) for details.
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1in-USTC&theme=tokyonight" alt="summary">
+  <!--
   <br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fr4nk1in-USTC&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-repo">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4nk1in-USTC&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
+  -->
   <br>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4nk1in-USTC&theme=tokyonight" alt="stats">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1in-USTC&theme=tokyonight&utcOffset=8" alt="commits">
+  <!--
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fr4nk1in-USTC&theme=tokyonight" alt="streaks">
+  -->
 </p>
 
+<!--
 ### Laptop 💻
 ![Lenovo](https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![CPU](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -67,12 +73,13 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+-->
 
-- 🌱 I’m currently learning Rust and HTML/CSS/JS.
-
+<!--
 ### Contact ☎️
 
 Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
+-->
 
 ### Recent ⌛
 
