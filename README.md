@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Fr4nk1in-USTC/Fr4nk1in-USTC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fr4nk1inCs/Fr4nk1inCs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,37 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Fr4nk1in-USTC/cmu-dl-sys.git) for details.
+I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Fr4nk1inCs/cmu-dl-sys.git) for details.
 
 <!--
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=USTC%5BFr4nk1in%5D.profile()" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&pause=1000&width=435&lines=Fr4nk1in.profile()" alt="Typing SVG" />
   </a>
 </p>
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Fr4nk1in-USTC?affiliations=OWNER&style=for-the-badge" alt="stars">
-  <img src="https://img.shields.io/github/followers/Fr4nk1in-USTC?style=for-the-badge" alt="followers">
+  <img src="https://img.shields.io/github/stars/Fr4nk1inCs?affiliations=OWNER&style=for-the-badge" alt="stars">
+  <img src="https://img.shields.io/github/followers/Fr4nk1inCs?style=for-the-badge" alt="followers">
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
     <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge" alt="wakatime">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1in-USTC&theme=tokyonight" alt="summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=tokyonight" alt="summary">
   <!--
   <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fr4nk1in-USTC&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-repo">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4nk1in-USTC&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fr4nk1inCs&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-repo">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4nk1inCs&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
   -->
   <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4nk1in-USTC&theme=tokyonight" alt="stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1in-USTC&theme=tokyonight&utcOffset=8" alt="commits">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4nk1inCs&theme=tokyonight" alt="stats">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=tokyonight&utcOffset=8" alt="commits">
   <!--
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fr4nk1in-USTC&theme=tokyonight" alt="streaks">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fr4nk1inCs&theme=tokyonight" alt="streaks">
   -->
 </p>
 
@@ -85,7 +85,7 @@ Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
 
 <p align="center">
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img align="center" src="https://raw.githubusercontent.com/Fr4nk1in-USTC/Fr4nk1in-USTC/master/images/wakatime_weekly_language_stats.svg">
-    <img align="center" src="https://raw.githubusercontent.com/Fr4nk1in-USTC/Fr4nk1in-USTC/master/images/wakatime_weekly_project_stats.svg">
+    <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/wakatime_weekly_language_stats.svg">
+    <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/wakatime_weekly_project_stats.svg">
   </a>
 </p>
