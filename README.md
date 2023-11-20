@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscourse.org), see my repo [cmu-dl-sys](https://github.com/Fr4nk1inCs/cmu-dl-sys.git) for details.
+-->
 
 <!--
 <p align="center">
