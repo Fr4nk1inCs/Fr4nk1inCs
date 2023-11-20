@@ -81,6 +81,7 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
 -->
 
+<!--
 ### Recent ⌛
 
 <p align="center">
@@ -89,3 +90,4 @@ Email: [sh.fu@outlook.com](mailto:sh.fu@outlook.com)
     <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/wakatime_weekly_project_stats.svg">
   </a>
 </p>
+-->
