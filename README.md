@@ -28,11 +28,13 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Fr4nk1inCs?affiliations=OWNER&style=for-the-badge" alt="stars">
   <img src="https://img.shields.io/github/followers/Fr4nk1inCs?style=for-the-badge" alt="followers">
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
     <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge" alt="wakatime">
   </a>
+</p>
+
+<p align="center">
 </p>
 
 <p align="center">
@@ -43,10 +45,10 @@ I'm currently learning [CMU 10-414/714 Deep Learning Systems](https://dlsyscours
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fr4nk1inCs&theme=tokyonight&hide=vhdl,systemverilog" alt="lang-by-commit">
   -->
   <br>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4nk1inCs&theme=tokyonight" alt="stats">
+  <img align="center" src="http://github-readme-stats.vercel.app/api?username=Fr4nk1inCs&theme=tokyonight&show_icons=true&hide_border=true" alt="stats">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=tokyonight&utcOffset=8" alt="commits">
-  <!--
   <br>
+  <!--
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fr4nk1inCs&theme=tokyonight" alt="streaks">
   -->
 </p>
