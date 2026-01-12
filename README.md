@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Fr4nk1inCs?style=for-the-badge" alt="followers">
+  <img src="https://img.shields.io/github/followers/Fr4nk1inCs?style=for-the-badge&color=5e81ac&labelColor=2e3440" alt="followers">
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge" alt="wakatime">
+    <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge&color=5e81ac&labelColor=2e3440" alt="wakatime">
   </a>
 </p>
 
