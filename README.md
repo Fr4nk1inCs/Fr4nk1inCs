@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=tokyonight" alt="summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=nord_dark" alt="summary">
   <br>
   <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/stats.svg" alt="stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=tokyonight&utcOffset=8" alt="commits">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=nord_dark&utcOffset=8" alt="commits">
   <br>
 </p>
 
