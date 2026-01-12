@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=tokyonight" alt="summary">
   <br>
-  <img align="center" src="http://github-readme-stats.vercel.app/api?username=Fr4nk1inCs&theme=tokyonight&show_icons=true&hide_border=true" alt="stats">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=tokyonight&utcOffset=8" alt="commits">
+  <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/stats.svg" alt="stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=tokyonight&utcOffset=8" alt="commits">
   <br>
 </p>
 
