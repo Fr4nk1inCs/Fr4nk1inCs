@@ -6,7 +6,7 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  github-readme-stats:
+  update-images:
     runs-on: ubuntu-latest
 
     permissions:
@@ -15,15 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Stats
+      - name: Generate Readme Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&theme=nord&show_icons=true&hide_border=true&text_bold=false&hide_title=true
+          options: username=${{ github.repository_owner }}&theme=nord&show_icons=true&text_bold=false&title_color=eceff4&ring_color=88c0d0
           path: images/stats.svg
           # token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit Changes
+      - name: Commit Readme Stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -31,11 +31,8 @@ jobs:
           git commit -m "Update Github Readme Stats" || exit 0
           git push
 
-  wakatime-charts:
-    name: Update wakatime stats charts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Fr4nk1inCs/wakatime-charts@master
+      - name: Wakatime charts
+        uses: Fr4nk1inCs/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BRANCH_NAME: "main"
