@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=nord_dark" alt="summary">
   <br>
-  <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/stats.svg" alt="stats">
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Fr4nk1inCs&theme=nord&show_icons=true&text_bold=false&title_color=eceff4&ring_color=88c0d0" alt="stats">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=nord_dark&utcOffset=8" alt="commits">
   <br>
 </p>
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/wakatime_weekly_language_stats.svg">
-    <img align="center" src="https://raw.githubusercontent.com/Fr4nk1inCs/Fr4nk1inCs/master/images/wakatime_weekly_project_stats.svg">
+    <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=e024e23b-0211-4224-b6ed-23c808e3d2e9&layout=compact&custom_title=Weekly%20Language%20Stats&langs_count=10&theme=nord&title_color=eceff4">
   </a>
 </p>
