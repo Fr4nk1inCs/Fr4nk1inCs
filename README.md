@@ -17,23 +17,12 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Fr4nk1inCs?style=for-the-badge&color=5e81ac&labelColor=2e3440" alt="followers">
-  <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img src="https://wakatime.com/badge/user/e024e23b-0211-4224-b6ed-23c808e3d2e9.svg?style=for-the-badge&color=5e81ac&labelColor=2e3440" alt="wakatime">
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=nord_dark" alt="summary">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fr4nk1inCs&theme=nord_bright&animation=sequence&duration=1" alt="summary">
   <br>
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=Fr4nk1inCs&theme=nord&show_icons=true&text_bold=false&title_color=eceff4&ring_color=88c0d0" alt="stats">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=nord_dark&utcOffset=8" alt="commits">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fr4nk1inCs&theme=nord_bright&animation=sequence&duration=1" alt="stats">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fr4nk1inCs&theme=nord_bright&utcOffset=8&animation=sequence&duration=1" alt="commits">
   <br>
-</p>
-
-### Recent ⌛
-
-<p align="center">
-  <a href="https://wakatime.com/@e024e23b-0211-4224-b6ed-23c808e3d2e9">
-    <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=e024e23b-0211-4224-b6ed-23c808e3d2e9&layout=compact&custom_title=Weekly%20Language%20Stats&langs_count=10&theme=nord&title_color=eceff4">
-  </a>
 </p>
